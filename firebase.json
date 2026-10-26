@@ -1,0 +1,19 @@
+{
+  "firestore": [
+    {
+      "database": "ai-studio-android-vidtube-7775af69-bf75-486f-bf3b-269a46b85139",
+      "rules": "firestore.rules"
+    }
+  ],
+  "emulators": {
+    "auth": {
+      "port": 9099
+    },
+    "firestore": {
+      "port": 8085
+    },
+    "ui": {
+      "enabled": true
+    }
+  }
+}
